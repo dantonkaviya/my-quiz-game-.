@@ -1,1 +1,1 @@
-# my-quiz-game-.
+# MY-QUIZ-GAME
